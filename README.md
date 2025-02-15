@@ -60,7 +60,7 @@ Contributions are welcome! If you'd like to contribute to the Bankist applicatio
 - Inspired by modern banking applications.
 - Built as part of a JavaScript course by jonas schmedtmann to demonstrate frontend development skills.
 
-##screnshots
+## Screnshots
 
 ![image](images/bank1.png)
 ![image](images/bank2.png)
